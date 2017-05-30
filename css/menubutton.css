@@ -164,15 +164,15 @@
 /*----------------- at hover -----------------*/
 
 .general-button:hover {
-    transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in;
 }
 
 .general-button:hover:before {
-    transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in;
 }
 
 .general-button:hover .button-content {
-    transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in;
 }
 
 
